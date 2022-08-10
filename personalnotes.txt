@@ -1,3 +1,0 @@
-Install Req
-
-pip3 install -r requirements.txt
