@@ -1,4 +1,3 @@
 python-dotenv
 bitcoinrpc
 asyncio
-venv
