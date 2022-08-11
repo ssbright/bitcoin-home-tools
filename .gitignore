@@ -2,3 +2,5 @@
 personalnotes.txt
 .idea
 venv
+Cargo.lock
+.DS_Store
