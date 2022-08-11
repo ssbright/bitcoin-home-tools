@@ -2,5 +2,6 @@
 personalnotes.txt
 .idea
 venv
-Cargo.lock
 .DS_Store
+__pycache__
+target
