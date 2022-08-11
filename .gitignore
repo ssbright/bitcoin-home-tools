@@ -3,5 +3,5 @@ personalnotes.txt
 .idea
 venv
 .DS_Store
-__pycache__
-target
+/target/
+/__pychase__/
