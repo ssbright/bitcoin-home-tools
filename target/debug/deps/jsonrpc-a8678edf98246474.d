@@ -1,0 +1,12 @@
+/Users/sydney/code/bitcoin/bitcoin-home-tools/bitcoin-tools/target/debug/deps/jsonrpc-a8678edf98246474.rmeta: /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/lib.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/client.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/error.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/util.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_http.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_tcp.rs
+
+/Users/sydney/code/bitcoin/bitcoin-home-tools/bitcoin-tools/target/debug/deps/libjsonrpc-a8678edf98246474.rlib: /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/lib.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/client.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/error.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/util.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_http.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_tcp.rs
+
+/Users/sydney/code/bitcoin/bitcoin-home-tools/bitcoin-tools/target/debug/deps/jsonrpc-a8678edf98246474.d: /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/lib.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/client.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/error.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/util.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_http.rs /Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_tcp.rs
+
+/Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/lib.rs:
+/Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/client.rs:
+/Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/error.rs:
+/Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/util.rs:
+/Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_http.rs:
+/Users/sydney/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_tcp.rs:
