@@ -10,7 +10,7 @@ use bitcoincore_rpc::{Auth, Client, RpcApi};
 
 
 fn main() {
-    let addr = dotenv!("CARD");
+
     let rpc = Client::new(&dotenv!("IP").to_string(),
                           Auth::UserPass(dotenv!("RPC_USER").to_string(),
                                          dotenv!("RPC_PASSWORD").to_string())).unwrap();
